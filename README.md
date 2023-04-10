@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente estoy realizando unas prácticas en NTT DATA y paralelamente estoy desarrollando el proyecto final de grado.
+Actualmente estoy realizando prácticas en NTT DATA y paralelamente estoy desarrollando el proyecto final de grado.
 
 
 ## 🌐 Socials:
